@@ -156,7 +156,7 @@ public class ControlPanelView extends JDialog {
 		setModal(true);
 		setAlwaysOnTop(true);
 		setModalityType(ModalityType.MODELESS);
-		setDefaultCloseOperation(JDialog.DISPOSE_ON_CLOSE);//HIDE_ON_CLOSE TODO <--- Consider using this Operation for later retention of the window
+		setDefaultCloseOperation(JDialog.DO_NOTHING_ON_CLOSE);
 		setLocationRelativeTo(mParent);
 		setContentPane(createContentPane());
 		setVisible(true);
