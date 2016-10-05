@@ -41,7 +41,6 @@ A tool for the visualization of the most popular  graph pathfinding algorithms.
 ![Extra Data](https://github.com/arthur3486/graphpathfindingalgorithmsvisualization/blob/master/demo6.gif "Demo #6")
 
 ## License
-=======
 
     Copyright 2016 Arthur Ivanets.
 
