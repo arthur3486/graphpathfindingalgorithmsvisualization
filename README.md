@@ -42,7 +42,7 @@ A tool for the visualization of the most popular  graph pathfinding algorithms.
 
 ## License
 
-    Copyright 2016 Arthur Ivanets.
+    Copyright 2016 Arthur Ivanets
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
